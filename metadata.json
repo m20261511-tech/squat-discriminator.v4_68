@@ -1,0 +1,1 @@
+{"tfjsVersion":"1.7.4","tmVersion":"0.8.6","packageVersion":"0.8.6","packageName":"@teachablemachine/pose","timeStamp":"2026-11-21T06:31:43.305Z","userMetadata":{},"modelName":"my-pose-model","labels":["올바른스쿼트(정면)","올바른스쿼트(옆모습)","잘못된스쿼트(무릎모임)","잘못된스쿼트(허리골반말림)"],"modelSettings":{"posenet":{"architecture":"MobileNetV1","outputStride":16,"inputResolution":257,"multiplier":0.75}}}
